@@ -21,7 +21,7 @@ BSPM是一种基于常微分方程的协同过滤推荐算法，采用**扰动-�
 ### 原论文信息
 
 - 论文标题：Blurring-Sharpening Process Models for Collaborative Filtering
-- 原论文地址：[Choi J, Hong S, Park N, et al. (2023)](https://dl.acm.org/doi/10.1145/3539618.3591886)
+- 原论文地址：[Choi J, Hong S, Park N, et al. (2023)](https://dl.acm.org/doi/10.1145/3539618.3591645)
 
 ## 技术框架
 
