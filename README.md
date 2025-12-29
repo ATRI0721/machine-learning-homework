@@ -27,15 +27,11 @@ BSPM是一种基于常微分方程的协同过滤推荐算法，采用**扰动-�
 
 本项目基于 **ReChorus** 框架进行开发，该框架专门用于推荐系统算法的复现和对比。
 
-- ReChorus框架GitHub链接：[https://github.com/GitHubLuoming/ReChorus](https://github.com/GitHubLuoming/ReChorus)
+- ReChorus框架GitHub链接：[https://github.com/THUwangcy/ReChorus](https://github.com/THUwangcy/ReChorus)
 - 我们在框架基础上实现了BSPM算法，并进行了以下优化：
   - 使用PyTorch稀疏矩阵减少显存占用
   - 设计缓存机制提升重复推理速度
   - 重新组织矩阵运算降低内存压力
-
-## 运行方式
-
-### 基本命令
 
 ## 运行方式
 
